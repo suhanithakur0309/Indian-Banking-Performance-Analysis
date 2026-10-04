@@ -17,10 +17,10 @@ The aim was to understand banking performance through **deposits, advances, prof
 
 ## Tools Used
 
-* **Power BI** — Dashboard & visualisation
-* **Power Query** — Data cleaning and transformation
-* **DAX** — Measures and KPIs
-* **RBI Banking Data** — Data source
+* **Power BI** - Dashboard & visualisation
+* **Power Query** - Data cleaning and transformation
+* **DAX** - Measures and KPIs
+* **RBI Banking Data** - Data source
 
 ## Dashboard
 
@@ -28,19 +28,19 @@ The aim was to understand banking performance through **deposits, advances, prof
 
 Provides a high-level view of deposits, advances, profitability and overall bank performance.
 
-![Executive Overview](screenshots/Overview.png)
+![Executive Overview](Overview.png)
 
 ### 2. Bank Performance & Profitability
 
 Compares banks based on deposits, advances, net profit and ROA.
 
-![Bank Performance](screenshots/Performance.png)
+![Bank Performance](Performance.png)
 
 ### 3. Banking Risk & Asset Quality
 
 Analyses NPA trends, NPA risk and CRAR to understand the risk profile of banks.
 
-![Banking Risk](screenshots/Risk.png)
+![Banking Risk](Risk.png)
 
 ## Key Insight
 
